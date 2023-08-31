@@ -1,0 +1,14 @@
+.playButton {
+  width: 300px;
+  height: 100px;
+  background-color: #2265a9;
+  color: white;
+  font-size: 30px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
